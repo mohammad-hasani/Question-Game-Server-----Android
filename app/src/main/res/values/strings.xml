@@ -1,0 +1,16 @@
+﻿<resources>
+    <string name="app_name">HajAgha</string>
+    <string name="username">نام کاربری</string>
+    <string name="password">پسورد</string>
+    <string name="rememberme">مرا بخاطر بسپار</string>
+    <string name="login">ورود</string>
+    <string name="answer">جواب</string>
+    <string name="errorUsername">لطفا نام کاربری را وارد کنید</string>
+    <string name="errorPassword">لطفا پسورد را وارد کنید</string>
+    <string name="failinlogin">خطا در ورود</string>
+    <string name="welcome">خوش آمدید</string>
+    <string name="send">ارسال</string>
+    <string name="cancel">لغو</string>
+    <string name="accepttheanswer">پاسخ شما ثبت شد</string>
+    <string name="failinsenddata">خطا در ارسال اطلاعات</string>
+</resources>
